@@ -6,6 +6,13 @@
     padding: 0px;
 }
 
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
 h1{
     color: white;
     text-align: center;
